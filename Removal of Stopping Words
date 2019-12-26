@@ -1,4 +1,4 @@
-// Function to remove all the Soping words that i picked up from internet
+// Function to remove all the Stoping words that i picked up from internet
 	
 	public String removeStopWords(String str) throws FileNotFoundException {
 		
